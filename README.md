@@ -64,7 +64,7 @@ This C++ program implements an **Input Validation Service** for validating diffe
 
 • 4)Mini Project :- Media Player with Polymorphic Controls :-
 
-This Project implements a **Media Player System** for managing different types of media such as **audio, video, and image files**.
+This C++ mini-project implements a **Media Player System** for managing different types of media such as **audio, video, and image files**.
 
 * The **`Media` base class** provides common operations such as `play()`, `pause()`, `stop()`, and `showDetails()`.
 * **Derived classes** (`Audio`, `Video`, and `Image`) inherit from the `Media` class and provide their own implementations of these operations.
